@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on The Yankee</title>
+    <link>https://the-yankee.github.io/news/categories/</link>
+    <description>Recent content in Categories on The Yankee</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 02 Apr 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://the-yankee.github.io/news/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>American Issues</title>
+      <link>https://the-yankee.github.io/news/categories/american-issues/</link>
+      <pubDate>Tue, 02 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://the-yankee.github.io/news/categories/american-issues/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Congress</title>
+      <link>https://the-yankee.github.io/news/categories/congress/</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://the-yankee.github.io/news/categories/congress/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Constitution</title>
+      <link>https://the-yankee.github.io/news/categories/constitution/</link>
+      <pubDate>Wed, 30 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://the-yankee.github.io/news/categories/constitution/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Federalist Papers Series</title>
+      <link>https://the-yankee.github.io/news/categories/federalist-papers-series/</link>
+      <pubDate>Tue, 12 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://the-yankee.github.io/news/categories/federalist-papers-series/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Founding Fathers</title>
+      <link>https://the-yankee.github.io/news/categories/founding-fathers/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://the-yankee.github.io/news/categories/founding-fathers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>History Buffs</title>
+      <link>https://the-yankee.github.io/news/categories/history-buffs/</link>
+      <pubDate>Wed, 27 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://the-yankee.github.io/news/categories/history-buffs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Middle East</title>
+      <link>https://the-yankee.github.io/news/categories/middle-east/</link>
+      <pubDate>Sun, 17 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://the-yankee.github.io/news/categories/middle-east/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Presidents</title>
+      <link>https://the-yankee.github.io/news/categories/presidents/</link>
+      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://the-yankee.github.io/news/categories/presidents/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Trump</title>
+      <link>https://the-yankee.github.io/news/categories/trump/</link>
+      <pubDate>Mon, 11 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://the-yankee.github.io/news/categories/trump/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Trump&#39;s America</title>
+      <link>https://the-yankee.github.io/news/categories/trumps-america/</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://the-yankee.github.io/news/categories/trumps-america/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Trump/Immigration</title>
+      <link>https://the-yankee.github.io/news/categories/trump/immigration/</link>
+      <pubDate>Wed, 09 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://the-yankee.github.io/news/categories/trump/immigration/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

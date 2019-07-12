@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Constitution on The Yankee</title>
+    <link>https://the-yankee.github.io/news/categories/constitution/</link>
+    <description>Recent content in Constitution on The Yankee</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 30 Jan 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://the-yankee.github.io/news/categories/constitution/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Trump -- How Constitutional Are His Policies?</title>
+      <link>https://the-yankee.github.io/news/post/2019/01/30/trump-how-constitutional-are-his-policies/</link>
+      <pubDate>Wed, 30 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://the-yankee.github.io/news/post/2019/01/30/trump-how-constitutional-are-his-policies/</guid>
+      <description>President Donald J. Trump is a divisive president, to say the least. He is often described as ‘unfit’ to be President of the United States. Whether this statement is true or not, are his policies constitutional?
+His policies have inspired controversy upon both sides of the political spectrum, but should his executive orders hold up in the supreme court?
+First, let’s look at the behemoth of the Trump Administration: ‘The Wall’.</description>
+    </item>
+    
+  </channel>
+</rss>

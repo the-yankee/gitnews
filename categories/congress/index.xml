@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Congress on The Yankee</title>
+    <link>https://the-yankee.github.io/news/categories/congress/</link>
+    <description>Recent content in Congress on The Yankee</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 28 Feb 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://the-yankee.github.io/news/categories/congress/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Congress - Passes Bill to Require Extended Gun Background Checks</title>
+      <link>https://the-yankee.github.io/news/post/2019/02/28/congress-passes-bill-to-require-extended-gun-background-checks/</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://the-yankee.github.io/news/post/2019/02/28/congress-passes-bill-to-require-extended-gun-background-checks/</guid>
+      <description>On February 28th, Congress passed a bill, requiring all gun manufacturers to take extended background checks with all gun sales. Rep. Mike Thomas, in district CA, and Pete King, New York Representative, proposed the bill, seeking reform with illegal and unlicensed firearms.
+This act clamps down on drug dealers, restricting all from transferring illegal or unlicensed firearms to third parties until a background check has been completed.
+Nowadays, current laws allow the sale to still commence, given that the provided dealer’s discretion is approved, even if the background check is not completed in a 3 days time span.</description>
+    </item>
+    
+    <item>
+      <title>Info Wars Lawsuit - Fake News - Is Freedom of Speech &amp; Press Still Necessary?</title>
+      <link>https://the-yankee.github.io/news/post/2019/02/26/info-wars-lawsuit-fake-news-is-freedom-of-speech-press-still-necessary/</link>
+      <pubDate>Tue, 26 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://the-yankee.github.io/news/post/2019/02/26/info-wars-lawsuit-fake-news-is-freedom-of-speech-press-still-necessary/</guid>
+      <description>Alex Jones, spokesman, and founder of the streaming network, Info Wars, has been filed suit against by families of the Sandy Hook Massacre survivors.
+In February, it was released that families had filed suit against Jones in a defamation trial, accusing him of misinformation on behalf of the deaths of their children.
+Jones claimed, on his podcast, that the victims and shooter in the massacre were indeed actors.
+The families declared this statement “a conspiracy theory”, disapproving of the statement and the story, as a whole.</description>
+    </item>
+    
+  </channel>
+</rss>

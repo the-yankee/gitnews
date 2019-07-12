@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Federalist Papers Series on The Yankee</title>
+    <link>https://the-yankee.github.io/news/categories/federalist-papers-series/</link>
+    <description>Recent content in Federalist Papers Series on The Yankee</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 12 Mar 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://the-yankee.github.io/news/categories/federalist-papers-series/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Federalist Papers Series - Federalist No. 46 - The American Gun Problem</title>
+      <link>https://the-yankee.github.io/news/post/2019/03/12/federalist-papers-series-federalist-no.-46-the-american-gun-problem/</link>
+      <pubDate>Tue, 12 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://the-yankee.github.io/news/post/2019/03/12/federalist-papers-series-federalist-no.-46-the-american-gun-problem/</guid>
+      <description>Preamble: The Federalist Papers are a series of essays, describing the rationale and legitimacy for a new American Constitution. The writers, Alexander Hamilton, James Madison, and John Jay strived to bring upon a new era of liberty and truth in their newly founded nation. During this time, the state of their nation was nothing less of disunified nation states, living separately of each other. The new constitution was a way of uniting the states, founding the United States of America.</description>
+    </item>
+    
+  </channel>
+</rss>
