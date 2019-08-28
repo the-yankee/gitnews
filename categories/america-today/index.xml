@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>America Today on The Yankee</title>
+    <link>https://the-yankee.github.io/news/categories/america-today/</link>
+    <description>Recent content in America Today on The Yankee</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 23 Jul 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://the-yankee.github.io/news/categories/america-today/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>America Today - The End of Moderation - Echo Chambers of Extremism</title>
+      <link>https://the-yankee.github.io/news/post/2019/07/23/america-today-the-end-of-moderation-echo-chambers-of-extremism/</link>
+      <pubDate>Tue, 23 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://the-yankee.github.io/news/post/2019/07/23/america-today-the-end-of-moderation-echo-chambers-of-extremism/</guid>
+      <description>In America today, it seems as if tensions are growing exponentially. It seems as if our society has an animosity that continues to multiply more and more until someday, the hatred will engulf our society as a whole as it did 150 years ago. Is this a warning? Is it a sign that we have not learned since our horrible cost of millions of lives lost in the American Civil War?</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -6,10 +6,28 @@
     <description>Recent content in Categories on The Yankee</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 02 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jul 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://the-yankee.github.io/news/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Alternate History Series</title>
+      <link>https://the-yankee.github.io/news/categories/alternate-history-series/</link>
+      <pubDate>Tue, 23 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://the-yankee.github.io/news/categories/alternate-history-series/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>America Today</title>
+      <link>https://the-yankee.github.io/news/categories/america-today/</link>
+      <pubDate>Tue, 23 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://the-yankee.github.io/news/categories/america-today/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>American Issues</title>
@@ -23,7 +41,7 @@
     <item>
       <title>Congress</title>
       <link>https://the-yankee.github.io/news/categories/congress/</link>
-      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 23 Jul 2019 00:00:00 +0000</pubDate>
       
       <guid>https://the-yankee.github.io/news/categories/congress/</guid>
       <description></description>
@@ -32,7 +50,7 @@
     <item>
       <title>Constitution</title>
       <link>https://the-yankee.github.io/news/categories/constitution/</link>
-      <pubDate>Wed, 30 Jan 2019 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 23 Jul 2019 00:00:00 +0000</pubDate>
       
       <guid>https://the-yankee.github.io/news/categories/constitution/</guid>
       <description></description>
@@ -75,6 +93,15 @@
     </item>
     
     <item>
+      <title>President Wars</title>
+      <link>https://the-yankee.github.io/news/categories/president-wars/</link>
+      <pubDate>Tue, 23 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://the-yankee.github.io/news/categories/president-wars/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Presidents</title>
       <link>https://the-yankee.github.io/news/categories/presidents/</link>
       <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
@@ -86,7 +113,7 @@
     <item>
       <title>Trump</title>
       <link>https://the-yankee.github.io/news/categories/trump/</link>
-      <pubDate>Mon, 11 Feb 2019 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 23 Jul 2019 00:00:00 +0000</pubDate>
       
       <guid>https://the-yankee.github.io/news/categories/trump/</guid>
       <description></description>
